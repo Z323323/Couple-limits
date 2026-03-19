@@ -118,6 +118,3 @@ and therefore
 ```math
 \square
 ```
-```math
-\diamond\diamond\diamond
-```
