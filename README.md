@@ -118,13 +118,6 @@ and therefore
 ```math
 \square
 ```
-
-**We can observe that we can make an approximation of this last formula.** Whenever $y$ makes $\frac{a}{y}$ very small, then
-
-```math
-\lim_{y \to \infty} (1 - \frac{a}{y})
-```
-
 ```math
 \diamond\diamond\diamond
 ```
